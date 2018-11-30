@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water Data Collaborative</title>
+    <link>/</link>
+    <description>Recent content on Water Data Collaborative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get the lead out!</title>
+      <link>/project/get-the-lead-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/get-the-lead-out/</guid>
+      <description>Lead Levels in San Francisco Schools San Francisco Unified School District tested the school&amp;rsquo;s drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
+There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.
+Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Prediction and Visualization of Reported Units</title>
+      <link>/project/prediction-visualization-reported-units/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/prediction-visualization-reported-units/</guid>
+      <description>Saving staff time by building a model that identifies Electronic Annual Reports (EARs) with errors. Can we learn more about contributing factors through geographic visualization?
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Central Valley Well Vulnerability</title>
+      <link>/project/central-valley-well-vulnerability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/central-valley-well-vulnerability/</guid>
+      <description>Studying wells in the Central Valley in California.
+Additional resources:
+ Project webpage Repository  </description>
+    </item>
+    
+    <item>
+      <title>Open Water Rate Specification (OWRS)</title>
+      <link>/project/open-water-rate-specification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/open-water-rate-specification/</guid>
+      <description>Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>DAMMS: Dam Assessment Mapping and Safety System</title>
+      <link>/project/dam-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dam-safety/</guid>
+      <description>Communicating dam safety through visualizations, building support for change
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Visualizing Exceedance of Contaminants</title>
+      <link>/project/visualizing-exceedance-contaminants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/visualizing-exceedance-contaminants/</guid>
+      <description>Visualizing exceedance levels of water system contaminants.
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Identifying high-risk communities</title>
+      <link>/project/high-risk-communities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/high-risk-communities/</guid>
+      <description>Identifying communities with a high risk of shortage using a multifactor vulnerability score
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Better Data Quality for Better Water Equity: Transforming EAR data </title>
+      <link>/project/transforming-ear-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/transforming-ear-data/</guid>
+      <description>Every year, the State of California gathers data about water usage and production from all of its public water systems via Electronics Annual Reports (EARs). For instance, consider Dataset #8 in the Recommended Challenge Datasets: this dataset lists information taken from the EAR for each public water system (PWS) for each month of the year, including water production/delivery, water quality, and rates. In principle, this dataset is a treasure-trove of knowledge for government employees seeking to study, optimize, and understand water distribution in California.</description>
+    </item>
+    
+    <item>
+      <title>Water: Towards True Affordability</title>
+      <link>/project/water-towards-true-affordability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-towards-true-affordability/</guid>
+      <description>Communities that are economically disadvantaged are most vulnerable to high water prices, and safety and availability issues.
+This project combines information from the Public Water Services (PWS), US Census data and water utility rates to study the affordability of drinking water in California.
+To fill the gaps in the existing data and engage and empowered the communities most affected, a proof-of-concept implementation for a survey is included.
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Drinking Water Contaminant Classification</title>
+      <link>/project/drinking-water-contaminant-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/drinking-water-contaminant-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How&#39;s My Water?</title>
+      <link>/project/howsmywater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/howsmywater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Quality Explorer</title>
+      <link>/project/wq-explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wq-explorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenGov Challenge</title>
+      <link>/project/greengov-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/greengov-challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/anthony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/anthony/</guid>
+      <description>Anthony is a program analyst for the UC Berkeley Data Science Education Program and a BIDS fellow.
+Anthony co-founded the BIDS Collaborative, which helps students collaborate with non-profits, government, and research institutes to solve challenging real-world issues. Anthony is a founding board member of Spark Clean Energy, a non-profit that helps run the DOE’s National Cleantech Competitions and University Cleantech Entrepreneurship Training Program. Anthony also co-founded Energyfolks, a data platform that connects energy groups around the world.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/violet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/violet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/meredith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/meredith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/ludovico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/ludovico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/alicia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alicia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/anusha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/anusha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/aspen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/aspen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/sandeep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/sandeep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/sathvik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/sathvik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/sean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/sean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/ziyun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/ziyun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/angie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/angie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/greg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/greg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/rafael/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/rafael/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Pooling together water data resources, in California and beyond.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>Pooling together water data resources, in California and beyond.</description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mission/</guid>
+      <description>Goals Igniting Student Innovation The Water Data Collaborative is a student-led effort. Students create and manage all activities of the Collaborative: working on research projects with real-world challenges, partnership and societal impact; organizing initiatives, hackathons and events enabling community outreach and knowledge exchange; and developing educational modules addressing a wide range of topics connected with water data science.
+Building and Growing Partnerships The Water Data Collaborative creates and facilitates contact between the diverse community of people and institutions involved in water data research, with a particular emphasis on enabling knowledge exchange between data and domain experts.</description>
+    </item>
+    
+  </channel>
+</rss>

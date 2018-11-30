@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water Data Collaborative</title>
+    <link>/topics/tools/</link>
+    <description>Recent content on Water Data Collaborative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/topics/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Better Data Quality for Better Water Equity: Transforming EAR data </title>
+      <link>/project/transforming-ear-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/transforming-ear-data/</guid>
+      <description>Every year, the State of California gathers data about water usage and production from all of its public water systems via Electronics Annual Reports (EARs). For instance, consider Dataset #8 in the Recommended Challenge Datasets: this dataset lists information taken from the EAR for each public water system (PWS) for each month of the year, including water production/delivery, water quality, and rates. In principle, this dataset is a treasure-trove of knowledge for government employees seeking to study, optimize, and understand water distribution in California.</description>
+    </item>
+    
+    <item>
+      <title>Open Water Rate Specification (OWRS)</title>
+      <link>/project/open-water-rate-specification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/open-water-rate-specification/</guid>
+      <description>Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Prediction and Visualization of Reported Units</title>
+      <link>/project/prediction-visualization-reported-units/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/prediction-visualization-reported-units/</guid>
+      <description>Saving staff time by building a model that identifies Electronic Annual Reports (EARs) with errors. Can we learn more about contributing factors through geographic visualization?
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+  </channel>
+</rss>

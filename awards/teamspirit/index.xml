@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water Data Collaborative</title>
+    <link>/awards/teamspirit/</link>
+    <description>Recent content on Water Data Collaborative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/awards/teamspirit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DAMMS: Dam Assessment Mapping and Safety System</title>
+      <link>/project/dam-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dam-safety/</guid>
+      <description>Communicating dam safety through visualizations, building support for change
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Initiatives on Water Data Collaborative</title>
+    <link>/initiatives/</link>
+    <description>Recent content in Initiatives on Water Data Collaborative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/initiatives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/initiatives/2016-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/initiatives/2016-challenge/</guid>
+      <description>TODO create some kind of description here</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/initiatives/2017-cawdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/initiatives/2017-cawdc/</guid>
+      <description>TODO create some kind of description here</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/initiatives/2018-cawdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/initiatives/2018-cawdc/</guid>
+      <description> ✔️4 months
+✔️25+ machine-readable datasets
+✔️15 events
+✔️$12,000 in &amp;ldquo;big checks&amp;rdquo;
+✔️20+ open data projects
+Additional resources:
+ #CAWaterDataChallenge on Twitter  </description>
+    </item>
+    
+  </channel>
+</rss>
