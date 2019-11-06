@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>availability on Water Data Collaborative</title>
+    <link>/topics/availability/</link>
+    <description>Recent content in availability on Water Data Collaborative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/topics/availability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Water Scarcity Clock</title>
+      <link>/project/water-scarcity-clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-scarcity-clock/</guid>
+      <description> Project Website </description>
+    </item>
+    
+    <item>
+      <title>Spotting the Drought</title>
+      <link>/project/california-drought/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/california-drought/</guid>
+      <description> Project Website </description>
+    </item>
+    
+  </channel>
+</rss>

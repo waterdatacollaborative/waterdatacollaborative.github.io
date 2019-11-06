@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Initiatives on Water Data Collaborative</title>
@@ -16,7 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/initiatives/2016-challenge/</guid>
-      <description>TODO create some kind of description here</description>
+      <description>The Water Boards&amp;rsquo; Office of Information Management and Analysis (OIMA) hosted a Data Innovation Challenge this spring. The event culminated on April 22, with presentation and judging of the entries.
+The focus was on creating apps, visualizations, and other tools that can help better harness data that is currently available. Generally, state government projects and products fail to share; disseminate; or make use, to its potential, the large amount of data that the government itself maintains.</description>
     </item>
     
     <item>
@@ -25,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/initiatives/2017-cawdc/</guid>
-      <description>TODO create some kind of description here</description>
+      <description></description>
     </item>
     
     <item>
@@ -41,6 +42,15 @@
 ✔️20+ open data projects
 Additional resources:
  #CAWaterDataChallenge on Twitter  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/initiatives/2019-cawdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/initiatives/2019-cawdc/</guid>
+      <description></description>
     </item>
     
   </channel>

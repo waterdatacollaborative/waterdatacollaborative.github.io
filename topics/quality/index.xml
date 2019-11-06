@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water Data Collaborative</title>
+    <link>/topics/quality/</link>
+    <description>Recent content on Water Data Collaborative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/topics/quality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get the lead out!</title>
+      <link>/project/get-the-lead-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/get-the-lead-out/</guid>
+      <description>Lead Levels in San Francisco Schools San Francisco Unified School District tested the school&amp;rsquo;s drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
+There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.
+Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Statewide Interactive Map of Lead in Drinking Water</title>
+      <link>/project/get-the-lead-out-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/get-the-lead-out-2019/</guid>
+      <description>Lead Levels in San Francisco Schools San Francisco Unified School District tested the school&amp;rsquo;s drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
+There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.
+Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>PFAS– We Eat It, We Drink It, We Breathe It</title>
+      <link>/project/pfas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/pfas/</guid>
+      <description> Project Webpage </description>
+    </item>
+    
+    <item>
+      <title>Water Quality Portal for California</title>
+      <link>/project/water-quality-portal-for-california/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-quality-portal-for-california/</guid>
+      <description> Project webpage </description>
+    </item>
+    
+    <item>
+      <title>Visualizing Exceedance of Contaminants</title>
+      <link>/project/visualizing-exceedance-contaminants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/visualizing-exceedance-contaminants/</guid>
+      <description>Visualizing exceedance levels of water system contaminants.
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Drinking Water Contaminant Classification</title>
+      <link>/project/drinking-water-contaminant-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/drinking-water-contaminant-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue Conduit</title>
+      <link>/project/blueconduit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/blueconduit/</guid>
+      <description>Using AI to reduce uncertainty of lead service line replacement</description>
+    </item>
+    
+    <item>
+      <title>California Safe Drinking Water</title>
+      <link>/project/california-safe-drinking-water/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/california-safe-drinking-water/</guid>
+      <description> Project website </description>
+    </item>
+    
+    <item>
+      <title>How&#39;s My Water?</title>
+      <link>/project/howsmywater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/howsmywater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jata Water Solution</title>
+      <link>/project/jata-water-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/jata-water-solution/</guid>
+      <description>Empowering Community Residents with One Integrated Information Platform and Two-Way Data Communication</description>
+    </item>
+    
+    <item>
+      <title>The WeTap App</title>
+      <link>/project/wetap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wetap/</guid>
+      <description> Project Webpage </description>
+    </item>
+    
+    <item>
+      <title>Water Quality Explorer</title>
+      <link>/project/wq-explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wq-explorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeedsViz</title>
+      <link>/project/weedsviz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/weedsviz/</guid>
+      <description> Delta Region Aquatic Invasive Plant Control Visualization
+Project Website </description>
+    </item>
+    
+  </channel>
+</rss>

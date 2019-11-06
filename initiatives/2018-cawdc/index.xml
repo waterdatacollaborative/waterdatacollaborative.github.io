@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water Data Collaborative</title>
@@ -11,12 +11,25 @@
     
     
     <item>
-      <title>Better Data Quality for Better Water Equity: Transforming EAR data </title>
-      <link>/project/transforming-ear-data/</link>
+      <title>Get the lead out!</title>
+      <link>/project/get-the-lead-out/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/transforming-ear-data/</guid>
-      <description>Every year, the State of California gathers data about water usage and production from all of its public water systems via Electronics Annual Reports (EARs). For instance, consider Dataset #8 in the Recommended Challenge Datasets: this dataset lists information taken from the EAR for each public water system (PWS) for each month of the year, including water production/delivery, water quality, and rates. In principle, this dataset is a treasure-trove of knowledge for government employees seeking to study, optimize, and understand water distribution in California.</description>
+      <guid>/project/get-the-lead-out/</guid>
+      <description>Lead Levels in San Francisco Schools San Francisco Unified School District tested the school&amp;rsquo;s drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
+There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.
+Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Prediction and Visualization of Reported Units</title>
+      <link>/project/prediction-visualization-reported-units/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/prediction-visualization-reported-units/</guid>
+      <description>Saving staff time by building a model that identifies Electronic Annual Reports (EARs) with errors. Can we learn more about contributing factors through geographic visualization?
+Additional resources:
+ Project webpage  </description>
     </item>
     
     <item>
@@ -31,57 +44,6 @@ Additional resources:
     </item>
     
     <item>
-      <title>DAMMS: Dam Assessment Mapping and Safety System</title>
-      <link>/project/dam-safety/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/dam-safety/</guid>
-      <description>Communicating dam safety through visualizations, building support for change
-Additional resources:
- Project webpage  </description>
-    </item>
-    
-    <item>
-      <title>Drinking Water Contaminant Classification</title>
-      <link>/project/drinking-water-contaminant-classification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/drinking-water-contaminant-classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Get the lead out!</title>
-      <link>/project/get-the-lead-out/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/get-the-lead-out/</guid>
-      <description>Lead Levels in San Francisco Schools San Francisco Unified School District tested the school&amp;rsquo;s drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
-There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.
-Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School Toolkit.</description>
-    </item>
-    
-    <item>
-      <title>How&#39;s My Water?</title>
-      <link>/project/howsmywater/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/howsmywater/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifying high-risk communities</title>
-      <link>/project/high-risk-communities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/high-risk-communities/</guid>
-      <description>Identifying communities with a high risk of shortage using a multifactor vulnerability score
-Additional resources:
- Project webpage  </description>
-    </item>
-    
-    <item>
       <title>Open Water Rate Specification (OWRS)</title>
       <link>/project/open-water-rate-specification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -92,12 +54,12 @@ Additional resources:
     </item>
     
     <item>
-      <title>Prediction and Visualization of Reported Units</title>
-      <link>/project/prediction-visualization-reported-units/</link>
+      <title>DAMMS: Dam Assessment Mapping and Safety System</title>
+      <link>/project/dam-safety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/prediction-visualization-reported-units/</guid>
-      <description>Saving staff time by building a model that identifies Electronic Annual Reports (EARs) with errors. Can we learn more about contributing factors through geographic visualization?
+      <guid>/project/dam-safety/</guid>
+      <description>Communicating dam safety through visualizations, building support for change
 Additional resources:
  Project webpage  </description>
     </item>
@@ -114,6 +76,26 @@ Additional resources:
     </item>
     
     <item>
+      <title>Identifying high-risk communities</title>
+      <link>/project/high-risk-communities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/high-risk-communities/</guid>
+      <description>Identifying communities with a high risk of shortage using a multifactor vulnerability score
+Additional resources:
+ Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Better Data Quality for Better Water Equity: Transforming EAR data </title>
+      <link>/project/transforming-ear-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/transforming-ear-data/</guid>
+      <description>Every year, the State of California gathers data about water usage and production from all of its public water systems via Electronics Annual Reports (EARs). For instance, consider Dataset #8 in the Recommended Challenge Datasets: this dataset lists information taken from the EAR for each public water system (PWS) for each month of the year, including water production/delivery, water quality, and rates. In principle, this dataset is a treasure-trove of knowledge for government employees seeking to study, optimize, and understand water distribution in California.</description>
+    </item>
+    
+    <item>
       <title>Water: Towards True Affordability</title>
       <link>/project/water-towards-true-affordability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,6 +106,24 @@ This project combines information from the Public Water Services (PWS), US Censu
 To fill the gaps in the existing data and engage and empowered the communities most affected, a proof-of-concept implementation for a survey is included.
 Additional resources:
  Project webpage  </description>
+    </item>
+    
+    <item>
+      <title>Drinking Water Contaminant Classification</title>
+      <link>/project/drinking-water-contaminant-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/drinking-water-contaminant-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How&#39;s My Water?</title>
+      <link>/project/howsmywater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/howsmywater/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water Data Collaborative</title>
@@ -22,6 +22,26 @@ Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School 
     </item>
     
     <item>
+      <title>Statewide Interactive Map of Lead in Drinking Water</title>
+      <link>/project/get-the-lead-out-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/get-the-lead-out-2019/</guid>
+      <description>Lead Levels in San Francisco Schools San Francisco Unified School District tested the school&amp;rsquo;s drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
+There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.
+Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>PFAS– We Eat It, We Drink It, We Breathe It</title>
+      <link>/project/pfas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/pfas/</guid>
+      <description> Project Webpage </description>
+    </item>
+    
+    <item>
       <title>Prediction and Visualization of Reported Units</title>
       <link>/project/prediction-visualization-reported-units/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +61,42 @@ Additional resources:
       <description>Studying wells in the Central Valley in California.
 Additional resources:
  Project webpage Repository  </description>
+    </item>
+    
+    <item>
+      <title>Source Water Time Machine</title>
+      <link>/project/source-water-time-machine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/source-water-time-machine/</guid>
+      <description> Project website </description>
+    </item>
+    
+    <item>
+      <title>Water Quality Portal for California</title>
+      <link>/project/water-quality-portal-for-california/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-quality-portal-for-california/</guid>
+      <description> Project webpage </description>
+    </item>
+    
+    <item>
+      <title>Water Rate Structures– Do They Make Cents?</title>
+      <link>/project/water-rate-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-rate-structures/</guid>
+      <description> Project Website </description>
+    </item>
+    
+    <item>
+      <title>Water Scarcity Clock</title>
+      <link>/project/water-scarcity-clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-scarcity-clock/</guid>
+      <description> Project Website </description>
     </item>
     
     <item>
@@ -118,12 +174,57 @@ Additional resources:
     </item>
     
     <item>
+      <title>Blue Conduit</title>
+      <link>/project/blueconduit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/blueconduit/</guid>
+      <description>Using AI to reduce uncertainty of lead service line replacement</description>
+    </item>
+    
+    <item>
+      <title>California Safe Drinking Water</title>
+      <link>/project/california-safe-drinking-water/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/california-safe-drinking-water/</guid>
+      <description> Project website </description>
+    </item>
+    
+    <item>
       <title>How&#39;s My Water?</title>
       <link>/project/howsmywater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/howsmywater/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Jata Water Solution</title>
+      <link>/project/jata-water-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/jata-water-solution/</guid>
+      <description>Empowering Community Residents with One Integrated Information Platform and Two-Way Data Communication</description>
+    </item>
+    
+    <item>
+      <title>Spotting the Drought</title>
+      <link>/project/california-drought/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/california-drought/</guid>
+      <description> Project Website </description>
+    </item>
+    
+    <item>
+      <title>The WeTap App</title>
+      <link>/project/wetap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wetap/</guid>
+      <description> Project Webpage </description>
     </item>
     
     <item>
@@ -136,138 +237,21 @@ Additional resources:
     </item>
     
     <item>
+      <title>WeedsViz</title>
+      <link>/project/weedsviz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/weedsviz/</guid>
+      <description> Delta Region Aquatic Invasive Plant Control Visualization
+Project Website </description>
+    </item>
+    
+    <item>
       <title>GreenGov Challenge</title>
       <link>/project/greengov-challenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/greengov-challenge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/anthony/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/anthony/</guid>
-      <description>Anthony is a program analyst for the UC Berkeley Data Science Education Program and a BIDS fellow.
-Anthony co-founded the BIDS Collaborative, which helps students collaborate with non-profits, government, and research institutes to solve challenging real-world issues. Anthony is a founding board member of Spark Clean Energy, a non-profit that helps run the DOE’s National Cleantech Competitions and University Cleantech Entrepreneurship Training Program. Anthony also co-founded Energyfolks, a data platform that connects energy groups around the world.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/violet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/violet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/meredith/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/meredith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/ludovico/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/ludovico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/alicia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/alicia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/anusha/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/anusha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/aspen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/aspen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/sandeep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/sandeep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/sathvik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/sathvik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/sean/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/sean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/ziyun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/ziyun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/angie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/angie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/greg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/greg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/rafael/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/rafael/</guid>
       <description></description>
     </item>
     

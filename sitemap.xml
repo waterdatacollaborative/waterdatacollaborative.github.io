@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -7,11 +7,35 @@
   </url>
   
   <url>
+    <loc>/project/get-the-lead-out-2019/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/pfas/</loc>
+  </url>
+  
+  <url>
     <loc>/project/prediction-visualization-reported-units/</loc>
   </url>
   
   <url>
     <loc>/project/central-valley-well-vulnerability/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/source-water-time-machine/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/water-quality-portal-for-california/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/water-rate-structures/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/water-scarcity-clock/</loc>
   </url>
   
   <url>
@@ -43,7 +67,27 @@
   </url>
   
   <url>
+    <loc>/project/blueconduit/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/california-safe-drinking-water/</loc>
+  </url>
+  
+  <url>
     <loc>/project/howsmywater/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/jata-water-solution/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/california-drought/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/wetap/</loc>
   </url>
   
   <url>
@@ -51,63 +95,15 @@
   </url>
   
   <url>
+    <loc>/project/weedsviz/</loc>
+  </url>
+  
+  <url>
     <loc>/project/greengov-challenge/</loc>
   </url>
   
   <url>
-    <loc>/people/anthony/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/violet/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/meredith/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/ludovico/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/alicia/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/anusha/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/aspen/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/sandeep/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/sathvik/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/sean/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/ziyun/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/angie/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/greg/</loc>
-  </url>
-  
-  <url>
-    <loc>/people/rafael/</loc>
+    <loc>/awards/changeatscale/</loc>
   </url>
   
   <url>
@@ -116,6 +112,10 @@
   
   <url>
     <loc>/awards/design/</loc>
+  </url>
+  
+  <url>
+    <loc>/awards/enduringcivicengagement/</loc>
   </url>
   
   <url>
@@ -159,11 +159,12 @@
   </url>
   
   <url>
-    <loc>/people/</loc>
+    <loc>/initiatives/2019-cawdc/</loc>
   </url>
   
   <url>
     <loc>/topics/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -175,11 +176,11 @@
   </url>
   
   <url>
-    <loc>/topics/health/</loc>
+    <loc>/topics/infrastructure/</loc>
   </url>
   
   <url>
-    <loc>/topics/infrastructure/</loc>
+    <loc>/topics/quality/</loc>
   </url>
   
   <url>
@@ -191,8 +192,11 @@
   </url>
   
   <url>
+    <loc>/topics/availability/</loc>
+  </url>
+  
+  <url>
     <loc>/awards/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -201,7 +205,6 @@
   
   <url>
     <loc>/initiatives/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -210,17 +213,14 @@
   
   <url>
     <loc>/project/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
