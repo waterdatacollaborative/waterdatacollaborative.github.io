@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water Data Collaborative</title>
@@ -31,15 +31,6 @@ These projects focus on using existing water data to quantify the economic impac
     
     <item>
       <title></title>
-      <link>/topics/health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/topics/health/</guid>
-      <description>Is water healthy to drink?</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/topics/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -49,11 +40,29 @@ These projects focus on using existing water data to quantify the economic impac
     
     <item>
       <title></title>
+      <link>/topics/quality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/topics/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/topics/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/topics/tools/</guid>
       <description>Devices, software, and protocols, to enable better water data collection, processing, and analysis.</description>
+    </item>
+    
+    <item>
+      <title>availability</title>
+      <link>/topics/availability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/topics/availability/</guid>
+      <description></description>
     </item>
     
   </channel>

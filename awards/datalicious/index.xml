@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water Data Collaborative</title>
@@ -19,6 +19,15 @@
       <description>Studying wells in the Central Valley in California.
 Additional resources:
  Project webpage Repository  </description>
+    </item>
+    
+    <item>
+      <title>Water Rate Structures– Do They Make Cents?</title>
+      <link>/project/water-rate-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-rate-structures/</guid>
+      <description> Project Website </description>
     </item>
     
   </channel>

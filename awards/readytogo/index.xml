@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water Data Collaborative</title>
@@ -19,6 +19,15 @@
       <description>Lead Levels in San Francisco Schools San Francisco Unified School District tested the school&amp;rsquo;s drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
 There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible.
 Take action with CALPIRG&amp;rsquo;s &amp;ldquo;Get The Lead Out:Back to School Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Water Quality Portal for California</title>
+      <link>/project/water-quality-portal-for-california/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/water-quality-portal-for-california/</guid>
+      <description> Project webpage </description>
     </item>
     
   </channel>
